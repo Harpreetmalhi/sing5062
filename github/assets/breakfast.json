@@ -1,0 +1,26 @@
+[{
+  "food": "Bacon",
+  "price": 200,
+  "calories": "20"
+},{
+  "food": "Bacon, egg and cheese sandwich",
+  "price": 450,
+  "calories": "10"
+},{
+  "food": "Biscuits and gravy",
+  "price": 120,
+  "calories": "40"
+},{
+  "food": "Bread pudding",
+  "price": 160,
+  "calories": "50"
+},{
+  "food": "Bear claw",
+  "price": 230,
+  "calories": "60"
+},{
+  "food": "Bagel and cream cheese",
+  "price": 650,
+  "calories": "5"
+}]
+
