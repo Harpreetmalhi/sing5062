@@ -1,0 +1,26 @@
+[{
+  "food": "Poached Eggs",
+  "price": 900,
+  "calories": "24"
+},{
+  "food": "Chicken Apple Pasta",
+  "price": 500,
+  "calories": "40"
+},{
+  "food": "Beef Orzo Skillet.",
+  "price": 600,
+  "calories": "2"
+},{
+  "food": "White Chicken Chili",
+  "price": 2000,
+  "calories": "56"
+},{
+  "food": "Tex-Mex Slow ",
+  "price": 1000,
+  "calories": "67"
+},{
+  "food": "Easy Beef Goulash",
+  "price": 600,
+  "calories": "12"
+}]
+

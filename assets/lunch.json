@@ -1,0 +1,26 @@
+[{
+  "food": "Vegetable Grits.",
+  "price": 400,
+  "calories": "10"
+},{
+  "food": "Egg and Avocado Sandwich",
+  "price": 600,
+  "calories": "30"
+},{
+  "food": "Skillet Bananas",
+  "price": 500,
+  "calories": "60"
+},{
+  "food": "Shrimp Spring Rolls",
+  "price": 200,
+  "calories": "40"
+},{
+  "food": "Salad with Chicken",
+  "price": 100,
+  "calories": "20"
+},{
+  "food": "Chopped Quinoa",
+  "price": 900,
+  "calories": "57"
+}]
+
